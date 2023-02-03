@@ -8,7 +8,7 @@ public class Level {
     this.left = left;
     this.right = right;
  }  
-
+ 
  public void setLeft(Level left) {
     this.left = left;
 
@@ -18,7 +18,7 @@ public class Level {
 
  }
  public void setPrompt(String prompt) {
-    this.prompt = prompt; 
+    this.prompt = prompt;
  }
 
  public Level getLeft() {
