@@ -18,7 +18,7 @@ public class Level {
 
  }
  public void setPrompt(String prompt) {
-    this.prompt = prompt;  
+    this.prompt = prompt; 
  }
 
  public Level getLeft() {
